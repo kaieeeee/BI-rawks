@@ -1,5 +1,5 @@
 # BI-rawks
-A repository of BI awareness
+A repository of BI awesomeness
 
 Hello There
 
